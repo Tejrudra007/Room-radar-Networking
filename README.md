@@ -16,3 +16,6 @@ RoomRadar is a real-time attendee discovery platform designed for mixers, summit
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tejrudra007/Room-radar-Networking.git
+
+## link for v0.dev
+https://v0.app/meow-0e04/chat/roomradar-app-development-sNciw9NThAK
